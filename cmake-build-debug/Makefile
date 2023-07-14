@@ -195,6 +195,33 @@ Linked-List/single-LL/singleLL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.s
 .PHONY : Linked-List/single-LL/singleLL.cpp.s
 
+Queue/LL-based-queue/llQueue.obj: Queue/LL-based-queue/llQueue.cpp.obj
+
+.PHONY : Queue/LL-based-queue/llQueue.obj
+
+# target to build an object file
+Queue/LL-based-queue/llQueue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/LL-based-queue/llQueue.cpp.obj
+.PHONY : Queue/LL-based-queue/llQueue.cpp.obj
+
+Queue/LL-based-queue/llQueue.i: Queue/LL-based-queue/llQueue.cpp.i
+
+.PHONY : Queue/LL-based-queue/llQueue.i
+
+# target to preprocess a source file
+Queue/LL-based-queue/llQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/LL-based-queue/llQueue.cpp.i
+.PHONY : Queue/LL-based-queue/llQueue.cpp.i
+
+Queue/LL-based-queue/llQueue.s: Queue/LL-based-queue/llQueue.cpp.s
+
+.PHONY : Queue/LL-based-queue/llQueue.s
+
+# target to generate assembly for a file
+Queue/LL-based-queue/llQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/LL-based-queue/llQueue.cpp.s
+.PHONY : Queue/LL-based-queue/llQueue.cpp.s
+
 Queue/array-based-queue/arrayQueue.obj: Queue/array-based-queue/arrayQueue.cpp.obj
 
 .PHONY : Queue/array-based-queue/arrayQueue.obj
@@ -318,6 +345,9 @@ help:
 	@echo ... Linked-List/single-LL/singleLL.obj
 	@echo ... Linked-List/single-LL/singleLL.i
 	@echo ... Linked-List/single-LL/singleLL.s
+	@echo ... Queue/LL-based-queue/llQueue.obj
+	@echo ... Queue/LL-based-queue/llQueue.i
+	@echo ... Queue/LL-based-queue/llQueue.s
 	@echo ... Queue/array-based-queue/arrayQueue.obj
 	@echo ... Queue/array-based-queue/arrayQueue.i
 	@echo ... Queue/array-based-queue/arrayQueue.s

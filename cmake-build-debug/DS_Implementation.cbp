@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Linked-List/single-LL/singleLL.h">
 			<Option target="DS_Implementation"/>
 		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.cpp">
+			<Option target="DS_Implementation"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.h">
+			<Option target="DS_Implementation"/>
+		</Unit>
 		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/arrayQueue.cpp">
 			<Option target="DS_Implementation"/>
 		</Unit>

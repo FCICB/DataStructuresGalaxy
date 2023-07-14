@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/arrayQueue.cpp
-arrayQueue.h
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/arrayQueue.h
+C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.cpp
+llQueue.h
+C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.h
 bits/stdc++.h
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/bits/stdc++.h
+C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/bits/stdc++.h
 
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/arrayQueue.h
+C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.h
 

@@ -1,3 +1,4 @@
+/*
 #include "arrayQueue.h"
 #include "bits/stdc++.h"
 using namespace std;
@@ -71,3 +72,4 @@ cout<<"Is queue empty? "<<(queue.isEmpty()?"Yes":"No")<<endl;
 queue.dequeue();
 cout<<"Is queue empty? "<<(queue.isEmpty()?"Yes":"No")<<endl;
 }
+*/
