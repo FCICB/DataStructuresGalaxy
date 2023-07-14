@@ -86,6 +86,7 @@ void singleLL::display() {
 int main(){
 
     singleLL list;
+    cout<<"========insertion:========\n";
     list.insertAtEnd(10);
     list.insertAtEnd(20);
     list.insertAtBeginning(5);
@@ -93,7 +94,8 @@ int main(){
     list.display(); //5 10 20
 
     list.deleteNode(10);
-
+    cout<<"\n\n========deletion:========\n";
     list.display(); // 5 20
 
-}*/
+}
+*/

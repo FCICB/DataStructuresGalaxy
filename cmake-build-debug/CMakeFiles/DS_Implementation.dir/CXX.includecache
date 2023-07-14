@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dell/CLionProjects/DS_Implementation/Linked-List/doubly-LL/doubleLL.cpp
-doubleLL.h
-C:/Users/dell/CLionProjects/DS_Implementation/Linked-List/doubly-LL/doubleLL.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.cpp
+arrayStack.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.h
 bits/stdc++.h
--
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/bits/stdc++.h
 
-C:/Users/dell/CLionProjects/DS_Implementation/Linked-List/doubly-LL/doubleLL.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.h
 

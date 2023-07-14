@@ -195,6 +195,33 @@ Linked-List/single-LL/singleLL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.s
 .PHONY : Linked-List/single-LL/singleLL.cpp.s
 
+Stack/Array-based-implementaion/arrayStack.obj: Stack/Array-based-implementaion/arrayStack.cpp.obj
+
+.PHONY : Stack/Array-based-implementaion/arrayStack.obj
+
+# target to build an object file
+Stack/Array-based-implementaion/arrayStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj
+.PHONY : Stack/Array-based-implementaion/arrayStack.cpp.obj
+
+Stack/Array-based-implementaion/arrayStack.i: Stack/Array-based-implementaion/arrayStack.cpp.i
+
+.PHONY : Stack/Array-based-implementaion/arrayStack.i
+
+# target to preprocess a source file
+Stack/Array-based-implementaion/arrayStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.i
+.PHONY : Stack/Array-based-implementaion/arrayStack.cpp.i
+
+Stack/Array-based-implementaion/arrayStack.s: Stack/Array-based-implementaion/arrayStack.cpp.s
+
+.PHONY : Stack/Array-based-implementaion/arrayStack.s
+
+# target to generate assembly for a file
+Stack/Array-based-implementaion/arrayStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.s
+.PHONY : Stack/Array-based-implementaion/arrayStack.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -237,6 +264,9 @@ help:
 	@echo ... Linked-List/single-LL/singleLL.obj
 	@echo ... Linked-List/single-LL/singleLL.i
 	@echo ... Linked-List/single-LL/singleLL.s
+	@echo ... Stack/Array-based-implementaion/arrayStack.obj
+	@echo ... Stack/Array-based-implementaion/arrayStack.i
+	@echo ... Stack/Array-based-implementaion/arrayStack.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
