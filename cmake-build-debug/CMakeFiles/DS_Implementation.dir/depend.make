@@ -10,5 +10,8 @@ CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.obj: ../Link
 CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj: ../Stack/Array-based-implementaion/arrayStack.cpp
 CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj: ../Stack/Array-based-implementaion/arrayStack.h
 
+CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj: ../Stack/LL-based-implementaion/llStack.cpp
+CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj: ../Stack/LL-based-implementaion/llStack.h
+
 CMakeFiles/DS_Implementation.dir/main.cpp.obj: ../main.cpp
 

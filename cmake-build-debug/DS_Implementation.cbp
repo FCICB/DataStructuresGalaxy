@@ -100,6 +100,12 @@
 		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.h">
 			<Option target="DS_Implementation"/>
 		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.cpp">
+			<Option target="DS_Implementation"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.h">
+			<Option target="DS_Implementation"/>
+		</Unit>
 		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/main.cpp">
 			<Option target="DS_Implementation"/>
 		</Unit>

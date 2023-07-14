@@ -222,6 +222,33 @@ Stack/Array-based-implementaion/arrayStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.s
 .PHONY : Stack/Array-based-implementaion/arrayStack.cpp.s
 
+Stack/LL-based-implementaion/llStack.obj: Stack/LL-based-implementaion/llStack.cpp.obj
+
+.PHONY : Stack/LL-based-implementaion/llStack.obj
+
+# target to build an object file
+Stack/LL-based-implementaion/llStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj
+.PHONY : Stack/LL-based-implementaion/llStack.cpp.obj
+
+Stack/LL-based-implementaion/llStack.i: Stack/LL-based-implementaion/llStack.cpp.i
+
+.PHONY : Stack/LL-based-implementaion/llStack.i
+
+# target to preprocess a source file
+Stack/LL-based-implementaion/llStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.i
+.PHONY : Stack/LL-based-implementaion/llStack.cpp.i
+
+Stack/LL-based-implementaion/llStack.s: Stack/LL-based-implementaion/llStack.cpp.s
+
+.PHONY : Stack/LL-based-implementaion/llStack.s
+
+# target to generate assembly for a file
+Stack/LL-based-implementaion/llStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.s
+.PHONY : Stack/LL-based-implementaion/llStack.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -267,6 +294,9 @@ help:
 	@echo ... Stack/Array-based-implementaion/arrayStack.obj
 	@echo ... Stack/Array-based-implementaion/arrayStack.i
 	@echo ... Stack/Array-based-implementaion/arrayStack.s
+	@echo ... Stack/LL-based-implementaion/llStack.obj
+	@echo ... Stack/LL-based-implementaion/llStack.i
+	@echo ... Stack/LL-based-implementaion/llStack.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

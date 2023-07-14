@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.cpp
-arrayStack.h
-C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.cpp
+llStack.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.h
 bits/stdc++.h
-C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/bits/stdc++.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/bits/stdc++.h
 
-C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.h
+C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.h
 

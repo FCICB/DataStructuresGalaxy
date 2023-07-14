@@ -1,3 +1,4 @@
+/*
 
 #include "arrayStack.h"
 #include "bits/stdc++.h"
@@ -64,3 +65,4 @@ stack.pop();
 cout<<"\n======check if the stack is full======\n"<<"Is stack empty? "<<(stack.isEmpty()?"Yes":"No")<<endl; //yes
 
 }
+*/
