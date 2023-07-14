@@ -7,6 +7,9 @@ CMakeFiles/DS_Implementation.dir/Linked-List/doubly-LL/doubleLL.cpp.obj: ../Link
 CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.obj: ../Linked-List/single-LL/singleLL.cpp
 CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.obj: ../Linked-List/single-LL/singleLL.h
 
+CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.obj: ../Queue/array-based-queue/arrayQueue.cpp
+CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.obj: ../Queue/array-based-queue/arrayQueue.h
+
 CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj: ../Stack/Array-based-implementaion/arrayStack.cpp
 CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj: ../Stack/Array-based-implementaion/arrayStack.h
 

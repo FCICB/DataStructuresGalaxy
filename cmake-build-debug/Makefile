@@ -195,6 +195,33 @@ Linked-List/single-LL/singleLL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Linked-List/single-LL/singleLL.cpp.s
 .PHONY : Linked-List/single-LL/singleLL.cpp.s
 
+Queue/array-based-queue/arrayQueue.obj: Queue/array-based-queue/arrayQueue.cpp.obj
+
+.PHONY : Queue/array-based-queue/arrayQueue.obj
+
+# target to build an object file
+Queue/array-based-queue/arrayQueue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.obj
+.PHONY : Queue/array-based-queue/arrayQueue.cpp.obj
+
+Queue/array-based-queue/arrayQueue.i: Queue/array-based-queue/arrayQueue.cpp.i
+
+.PHONY : Queue/array-based-queue/arrayQueue.i
+
+# target to preprocess a source file
+Queue/array-based-queue/arrayQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.i
+.PHONY : Queue/array-based-queue/arrayQueue.cpp.i
+
+Queue/array-based-queue/arrayQueue.s: Queue/array-based-queue/arrayQueue.cpp.s
+
+.PHONY : Queue/array-based-queue/arrayQueue.s
+
+# target to generate assembly for a file
+Queue/array-based-queue/arrayQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.s
+.PHONY : Queue/array-based-queue/arrayQueue.cpp.s
+
 Stack/Array-based-implementaion/arrayStack.obj: Stack/Array-based-implementaion/arrayStack.cpp.obj
 
 .PHONY : Stack/Array-based-implementaion/arrayStack.obj
@@ -291,6 +318,9 @@ help:
 	@echo ... Linked-List/single-LL/singleLL.obj
 	@echo ... Linked-List/single-LL/singleLL.i
 	@echo ... Linked-List/single-LL/singleLL.s
+	@echo ... Queue/array-based-queue/arrayQueue.obj
+	@echo ... Queue/array-based-queue/arrayQueue.i
+	@echo ... Queue/array-based-queue/arrayQueue.s
 	@echo ... Stack/Array-based-implementaion/arrayStack.obj
 	@echo ... Stack/Array-based-implementaion/arrayStack.i
 	@echo ... Stack/Array-based-implementaion/arrayStack.s
