@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/hashChaining.cpp">
+			<Option target="DS_Implementation"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/hashChaining.h">
+			<Option target="DS_Implementation"/>
+		</Unit>
 		<Unit filename="C:/Users/dell/CLionProjects/DS_Implementation/Linked-List/doubly-LL/doubleLL.cpp">
 			<Option target="DS_Implementation"/>
 		</Unit>

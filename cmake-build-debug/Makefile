@@ -141,6 +141,33 @@ DS_Implementation/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/build
 .PHONY : DS_Implementation/fast
 
+Hashing/seperarte-chaining/hashChaining.obj: Hashing/seperarte-chaining/hashChaining.cpp.obj
+
+.PHONY : Hashing/seperarte-chaining/hashChaining.obj
+
+# target to build an object file
+Hashing/seperarte-chaining/hashChaining.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Hashing/seperarte-chaining/hashChaining.cpp.obj
+.PHONY : Hashing/seperarte-chaining/hashChaining.cpp.obj
+
+Hashing/seperarte-chaining/hashChaining.i: Hashing/seperarte-chaining/hashChaining.cpp.i
+
+.PHONY : Hashing/seperarte-chaining/hashChaining.i
+
+# target to preprocess a source file
+Hashing/seperarte-chaining/hashChaining.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Hashing/seperarte-chaining/hashChaining.cpp.i
+.PHONY : Hashing/seperarte-chaining/hashChaining.cpp.i
+
+Hashing/seperarte-chaining/hashChaining.s: Hashing/seperarte-chaining/hashChaining.cpp.s
+
+.PHONY : Hashing/seperarte-chaining/hashChaining.s
+
+# target to generate assembly for a file
+Hashing/seperarte-chaining/hashChaining.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Hashing/seperarte-chaining/hashChaining.cpp.s
+.PHONY : Hashing/seperarte-chaining/hashChaining.cpp.s
+
 Linked-List/doubly-LL/doubleLL.obj: Linked-List/doubly-LL/doubleLL.cpp.obj
 
 .PHONY : Linked-List/doubly-LL/doubleLL.obj
@@ -339,6 +366,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DS_Implementation
+	@echo ... Hashing/seperarte-chaining/hashChaining.obj
+	@echo ... Hashing/seperarte-chaining/hashChaining.i
+	@echo ... Hashing/seperarte-chaining/hashChaining.s
 	@echo ... Linked-List/doubly-LL/doubleLL.obj
 	@echo ... Linked-List/doubly-LL/doubleLL.i
 	@echo ... Linked-List/doubly-LL/doubleLL.s

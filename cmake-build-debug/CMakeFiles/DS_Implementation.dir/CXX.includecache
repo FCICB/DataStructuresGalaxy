@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.cpp
-llQueue.h
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.h
+C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/hashChaining.cpp
+hashChaining.h
+C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/hashChaining.h
 bits/stdc++.h
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/bits/stdc++.h
+C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/bits/stdc++.h
 
-C:/Users/dell/CLionProjects/DS_Implementation/Queue/LL-based-queue/llQueue.h
+C:/Users/dell/CLionProjects/DS_Implementation/Hashing/seperarte-chaining/hashChaining.h
+list
+-
+vector
+-
 
