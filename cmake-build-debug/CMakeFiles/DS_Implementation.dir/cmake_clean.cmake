@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.obj"
   "CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj"
   "CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj"
+  "CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.obj"
   "CMakeFiles/DS_Implementation.dir/main.cpp.obj"
   "DS_Implementation.exe"
   "DS_Implementation.exe.manifest"

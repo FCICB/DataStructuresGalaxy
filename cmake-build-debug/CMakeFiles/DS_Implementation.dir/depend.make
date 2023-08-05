@@ -22,5 +22,8 @@ CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.
 CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj: ../Stack/LL-based-implementaion/llStack.cpp
 CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj: ../Stack/LL-based-implementaion/llStack.h
 
+CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.obj: ../Tree/BST/TreeNode.cpp
+CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.obj: ../Tree/BST/TreeNode.h
+
 CMakeFiles/DS_Implementation.dir/main.cpp.obj: ../main.cpp
 

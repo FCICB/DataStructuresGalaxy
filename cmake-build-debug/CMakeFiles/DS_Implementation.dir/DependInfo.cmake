@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/dell/CLionProjects/DS_Implementation/Queue/array-based-queue/arrayQueue.cpp" "C:/Users/dell/CLionProjects/DS_Implementation/cmake-build-debug/CMakeFiles/DS_Implementation.dir/Queue/array-based-queue/arrayQueue.cpp.obj"
   "C:/Users/dell/CLionProjects/DS_Implementation/Stack/Array-based-implementaion/arrayStack.cpp" "C:/Users/dell/CLionProjects/DS_Implementation/cmake-build-debug/CMakeFiles/DS_Implementation.dir/Stack/Array-based-implementaion/arrayStack.cpp.obj"
   "C:/Users/dell/CLionProjects/DS_Implementation/Stack/LL-based-implementaion/llStack.cpp" "C:/Users/dell/CLionProjects/DS_Implementation/cmake-build-debug/CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.obj"
+  "C:/Users/dell/CLionProjects/DS_Implementation/Tree/BST/TreeNode.cpp" "C:/Users/dell/CLionProjects/DS_Implementation/cmake-build-debug/CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.obj"
   "C:/Users/dell/CLionProjects/DS_Implementation/main.cpp" "C:/Users/dell/CLionProjects/DS_Implementation/cmake-build-debug/CMakeFiles/DS_Implementation.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

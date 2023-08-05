@@ -330,6 +330,33 @@ Stack/LL-based-implementaion/llStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Stack/LL-based-implementaion/llStack.cpp.s
 .PHONY : Stack/LL-based-implementaion/llStack.cpp.s
 
+Tree/BST/TreeNode.obj: Tree/BST/TreeNode.cpp.obj
+
+.PHONY : Tree/BST/TreeNode.obj
+
+# target to build an object file
+Tree/BST/TreeNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.obj
+.PHONY : Tree/BST/TreeNode.cpp.obj
+
+Tree/BST/TreeNode.i: Tree/BST/TreeNode.cpp.i
+
+.PHONY : Tree/BST/TreeNode.i
+
+# target to preprocess a source file
+Tree/BST/TreeNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.i
+.PHONY : Tree/BST/TreeNode.cpp.i
+
+Tree/BST/TreeNode.s: Tree/BST/TreeNode.cpp.s
+
+.PHONY : Tree/BST/TreeNode.s
+
+# target to generate assembly for a file
+Tree/BST/TreeNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DS_Implementation.dir\build.make CMakeFiles/DS_Implementation.dir/Tree/BST/TreeNode.cpp.s
+.PHONY : Tree/BST/TreeNode.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -387,6 +414,9 @@ help:
 	@echo ... Stack/LL-based-implementaion/llStack.obj
 	@echo ... Stack/LL-based-implementaion/llStack.i
 	@echo ... Stack/LL-based-implementaion/llStack.s
+	@echo ... Tree/BST/TreeNode.obj
+	@echo ... Tree/BST/TreeNode.i
+	@echo ... Tree/BST/TreeNode.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
